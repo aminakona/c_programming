@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-//we can use break statement for stop loop before satisfy the codition.
+//we can use break statement to stop loop before satisfy the codition.
 
 int main()
 {
